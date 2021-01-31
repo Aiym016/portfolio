@@ -1,2 +1,2 @@
 # portfolio
-high_scores_please
+high_score_please
