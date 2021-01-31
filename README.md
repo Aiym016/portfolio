@@ -1,3 +1,2 @@
 # portfolio
-my portfolio
-hi! 
+high_scores_please
